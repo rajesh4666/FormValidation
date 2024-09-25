@@ -6,6 +6,7 @@ Features
 .Provides real-time validation feedback to the user through alerts and prevents submission of invalid data.
 
 Form Structure
+
 The form includes the following fields:
 
 .Name (text input)
