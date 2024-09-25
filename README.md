@@ -8,7 +8,11 @@ Features
 Form Structure
 The form includes the following fields:
 .Name (text input)
+
+
 .Email (email input)
+
+
 .Phone Number (telephone input)
 .Password (password input)
 
